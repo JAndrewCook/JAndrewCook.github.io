@@ -10,6 +10,7 @@ include ('includes/header.html');
 <br/>
   <p>A portfolio site to hold all of my coding projects and examples.</p>
 </main>
+
 <?php
 
 include ('includes/footer.html');
