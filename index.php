@@ -1,10 +1,3 @@
-<!-- <?php
-
-$page_title = 'Home | John Cook';
-$page_fun = 'A little about me...';
-include ('includes/header.html');
-
-?> -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,7 +23,3 @@ include ('includes/header.html');
   </footer>
 </body>
 </html>
-<!-- <?php
-
-include ('includes/footer.html');
-?> -->
