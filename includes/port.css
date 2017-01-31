@@ -42,15 +42,16 @@ header h2 {
 }
 /*body*/
 body {
-	background-color: black;
+	background-color: #020100;
 	font-family: sans-serif;
-	color: white;
+	color: #020100;
 }
 ::-webkit-scrollbar{
 	display: none;
 }
 main {
 	width: 80%;
+	background-color: #fdfffc;
 	min-height: 10px;
 	margin: auto;
 }
@@ -74,17 +75,17 @@ main li {
 }
 a {
 	text-decoration: none;
-	color: black;
+	color: #f1d302;
 
 }
 /*form*/
 input[type=text] {
-	border: solid 2px #BAE4F0;
+	border: solid 2px #01baef;
 	width: 20%;
 
 }
 textarea {
-	border: solid 2px #BAE4F0;
+	border: solid 2px #01baef;
 
 }
 form {
@@ -106,7 +107,7 @@ nav ul {
 nav ul li {
   float:left;
   list-style: none;
-	background-color: #d3d3d3;
+	background-color: #b20000;
   width: 20%;
 
 }
@@ -124,7 +125,7 @@ footer {
   font-size: .8em;
   margin-top: 40px;
   margin-bottom: 40px;
-  border-top: solid 1px #BAE4F0;
+  border-top: solid 1px #01baef;
   padding-top: 5px;
-  color: white;
+  color: #fdfffc;
 }
