@@ -22,9 +22,11 @@ time, mark, audio, video {
 }
 /*header*/
 header {
-		background-color: #b20000;
-		text-align: right;
-
+	background-color: #b20000;
+	text-align: right;
+	height: 10%;
+	width: 100%;
+	padding: 20px;
 }
 header h1 {
 	font-size: 3em;
