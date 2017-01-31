@@ -2,6 +2,6 @@
 A portfolio website to hold all of my projects
 
 ##todo
-link java projects
-Get the PHP links to work
-Update CSS and make it look good
+link java projects,
+get the PHP links to work,
+update CSS and make it look good
