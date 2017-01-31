@@ -22,7 +22,7 @@ time, mark, audio, video {
 }
 /*header*/
 header {
-		background-color: #BAE4F0;
+		background-color: #b20000;
 		text-align: right;
 
 }
@@ -40,8 +40,9 @@ header h2 {
 }
 /*body*/
 body {
-	background-color: white;
+	background-color: black;
 	font-family: sans-serif;
+	font-color: white;
 }
 ::-webkit-scrollbar{
 	display: none;
