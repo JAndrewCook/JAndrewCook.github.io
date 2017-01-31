@@ -54,6 +54,7 @@ main {
 	background-color: #fdfffc;
 	min-height: 60%;
 	margin: auto;
+	padding: 15px;
 }
 main h1 {
 	font-size: 1.5em;
@@ -120,7 +121,7 @@ nav ul li a {
 }
 /*footer*/
 footer {
-  min-height: 5%;
+  min-height: 10%;
   text-align: center;
   font-size: .8em;
   margin-top: 40px;
