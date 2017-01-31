@@ -123,8 +123,8 @@ footer {
   text-align: center;
   font-size: .8em;
   margin-top: 40px;
-	margin-bottom: 40px;
-	border-top: solid 1px #BAE4F0;
-	padding-top: 5px;
-
+  margin-bottom: 40px;
+  border-top: solid 1px #BAE4F0;
+  padding-top: 5px;
+  font-color: white;
 }
