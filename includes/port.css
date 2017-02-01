@@ -44,14 +44,14 @@ header h2 {
 body {
 	background-color: #020100;
 	font-family: sans-serif;
-	color: #020100;
+	color: #fdfffc;
 }
 ::-webkit-scrollbar{
 	display: none;
 }
 main {
 	width: 90%;
-	background-color: #fdfffc;
+	background-color: #020100;
 	min-height: 60%;
 	margin: auto;
 	padding: 15px;
@@ -129,4 +129,5 @@ footer {
   border-top: solid 1px #01baef;
   padding-top: 5px;
   color: #fdfffc;
+	background-color: #b20000;
 }
