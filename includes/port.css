@@ -45,6 +45,7 @@ body {
 	background-color: #020100;
 	font-family: sans-serif;
 	color: #fdfffc;
+	height: 100%;
 }
 ::-webkit-scrollbar{
 	display: none;
